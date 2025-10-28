@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Erayisci
-- 👀 I’m a freshman at Bilkent University.
+- 👀 I’m a senior at Bilkent University.
 
 
 <!---
