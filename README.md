@@ -8,7 +8,7 @@
 ## 🚀 Current Work
 - 🧭 **TokenSign Analytics** — an **EV-charging analytics platform** built during my internship at [Token Financial Technologies](https://www.tokenfintech.com/).  
   Designed **Spring Boot + Elasticsearch + React** data pipelines for real-time and monthly dashboards (ESU, City, Company, Plate-level reports).  
-- 🧩 **VeriFact** — real-time claim-verification assistant for Zoom meetings (integrated via Zoom SDK and NLP claim detection).
+- 🧩 **VeriFact** — real-time claim-verification assistant for Zoom meetings (integrated via Zoom SDK and NLP claim detection). [ongoing on private repo]
 
 ---
 
